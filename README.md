@@ -1,4 +1,4 @@
-# ExplainableAndFairMLMethods
+# Avoiding Proxy Discrimination using Causal Reasoning
 
 We try to solve discrimination on the <a href=https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29>German Credit Data Set</a> used in <a href=https://ieeexplore.ieee.org/abstract/document/8452913>Verma & Rubin (2018)</a> with the model presented in <a href=http://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning>Kilbertus et al. (2017)</a>.
 
